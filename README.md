@@ -50,7 +50,6 @@ frozen MERT encoder and a trainable linear projector (768 → 4096).
 | Genre | MedleyDB | Exact match accuracy |
 | Instrument | MedleyDB | F1 (multi-label) |
 | Chord | AAM test split | Frame-wise recall (100ms tolerance) |
-| Grounding | — | mIoU; tempo/key interval prediction |
 
 ## Dependencies
 
